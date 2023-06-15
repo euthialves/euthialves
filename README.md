@@ -1,5 +1,4 @@
-### Bem vindo ao meu GitHub
-
+### Welcome to my GitHub 👨🏽‍💼
 
 - ❤ Amigo e seguidor dEle
 - ☕ Eu atualmente estou estudando programação
