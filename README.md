@@ -3,4 +3,5 @@
 - ❤ Amigo e seguidor dEle
 - ☕ Eu atualmente estou estudando programação
 - 💻 Atualmente estou estudando, HTML, CSS, Javascript, NodeJS, SQL e GIT.
+- 💡 Empreendedor em desenvolvimento e apaixonado pela vida!
 
